@@ -33,3 +33,15 @@ View the project roadmap [here](https://waffle.io/mariasratbags/ingredients2020)
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Next Steps
+
+1. Refactor in React Native 
+1. Use Firebase integration
+1. Implement additional styling
+1. Make database more robust 
+1. Save images to past searches
+1. Create tool bar for search type (single ingredient, or photo) 
+1. Improve search algorithm to find partial ingredient matches 
+1. Add tags for each ingredient 
+1. Implement more tests 
